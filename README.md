@@ -1,2 +1,1 @@
-# techorama-iac
-Session Techorama Café - Infrastructure as Code
+# Session Techorama Café - Infrastructure as Code
